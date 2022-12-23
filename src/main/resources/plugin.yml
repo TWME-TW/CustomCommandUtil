@@ -1,0 +1,6 @@
+name: CustomCommandUtil
+version: '${project.version}'
+main: land.builders.customcommandutil.CustomCommandUtil
+api-version: 1.19
+prefix: CustomCommandUtil
+authors: [ TWME ]
