@@ -1,0 +1,6 @@
+DEBUG: false
+
+PLUGIN_SETTINGS:
+  PREFIX: "CCU"
+  MESSAGES_FILE: "zh_TW_messages.yml"
+

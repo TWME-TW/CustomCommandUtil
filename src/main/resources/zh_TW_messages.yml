@@ -1,0 +1,32 @@
+CUSTOM_COMMAND_UTIL:
+  NO_PERMISSION: "沒有權限"
+  PREFIX: "[CCG]"
+  EDIT: "[編輯]"
+  DELETE: "[刪除]"
+  MOVE_UP: "[上移]"
+  MOVE_DOWN: "[下移]"
+  PREVIOUS_PAGE: "[上一頁]"
+  NEXT_PAGE: "[下一頁]"
+
+  # 指令組
+COMMAND_GROUP:
+  PREFIX: "[指令組工具]"
+  EXIST_COMMAND_GROUP: "現有的指令組："
+  PRIVATE_COMMAND_GROUP: "[私人指令組]"
+  PUBLIC_COMMAND_GROUP: "[公開指令組]"
+  ANOTHER: "作者："
+  NO_EXIST_COMMAND_GROUP: "目前沒有任何存在的指令組"
+  CREATE_COMMAND_GROUP: "[創建指令組]"
+  COMMAND_GROUP_NAME: "指令組名稱："
+  TRIGGER_COMMAND: "觸發指令："
+  COMMAND_LIST: "指令列表(按順序執行)："
+  NEXT: "➥"
+
+  # 關鍵字替換
+COMMAND_REPLACER:
+  PREFIX: "[關鍵字替換工具]"
+  EXIST_KEYWORDS: "現有關鍵字轉換列表："
+  NO_EXIST_KEYWORDS: "目前沒有任何存在的關鍵字"
+  CREATE_KEYWORDS: "[創建新的關鍵字]"
+  ARROW_SYMBOL: "-->"
+

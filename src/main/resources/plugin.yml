@@ -4,3 +4,14 @@ main: land.builders.customcommandutil.CustomCommandUtil
 api-version: 1.19
 prefix: CustomCommandUtil
 authors: [ TWME ]
+description: a spigot plugin
+commands:
+  customcommandutil:
+    description: CustomCommandUtil main commands
+    aliases:
+      - customcu
+      - ccommandutil
+      - ccu
+    permission: customcommandutil.command
+    permission-message: no permission
+    usage: "/ccu"
